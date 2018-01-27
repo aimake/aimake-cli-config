@@ -1,0 +1,38 @@
+{
+  "name": "aimake-cli-config",
+  "version": "0.0.1",
+  "projects": [
+    {
+      "name": "aimake-backbone-cjs",
+      "description": "aimake普通项目"
+    },
+    {
+      "name": "aimake-project-product",
+      "description": "aimake插拔式项目"
+    },
+    {
+      "name": "aimake-mobile",
+      "description": "运营页面项目"
+    },
+    {
+      "name": "aimake-mobile-backbone",
+      "description": "Hybrid应用（Backbone）"
+    },
+    {
+      "name": "aimake-mobile-react",
+      "description": "Hybrid应用（React）"
+    },
+    {
+      "name": "aimake-react",
+      "description": "React单页面应用"
+    },
+    {
+      "name": "@ali/aimake-yun-console",
+      "description": "上云项目"
+    },
+    {
+      "name": "@ali/aimake-screen-normal",
+      "description": "传统大屏项目"
+    }
+  ]
+}
